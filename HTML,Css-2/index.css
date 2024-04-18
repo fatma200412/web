@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.aboutMe {
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  border-bottom: 2px solid black;
+  padding: 20px;
+}
+.family {
+  background-color: aliceblue;
+  padding: 25px;
+  border-bottom: 2px solid black;
+}
+.family h2 {
+  font-size: 16px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  padding: 10px;
+}

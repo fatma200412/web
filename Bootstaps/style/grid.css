@@ -1,0 +1,33 @@
+.conainer,
+.row,
+.col {
+  border-radius: 10px;
+  padding: 1px;
+  border: 1px solid black;
+}
+#sturuktur {
+  margin-top: 50px;
+}
+
+.row {
+  height: 100px;
+}
+.col {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 500;
+  font-size: 20px;
+}
+.header {
+  background-color: orange;
+}
+.col-6 {
+  background-color: skyblue;
+}
+.sidebar {
+  background-color: rgb(184, 58, 58);
+}
+.footer {
+  background-color: greenyellow;
+}
